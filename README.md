@@ -8,7 +8,7 @@ npm install
 
 ### Database setup
 ```
-execute in localserver the file called database.sql, it requieres mysql running on the background to runn the script
+execute in localserver the file called database.sql, it requieres mysql running on the background to run the script
 ```
 
 #### Run the server
